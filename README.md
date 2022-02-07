@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Almero13
+- 👋 Hi, I’m Amr Al-Sherif
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analysis
