@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Amr
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Analysis
+- Hi, I’m Amr
+- I’m interested in Data Science & Machine Learning
+- Python is my favorite language
+- Certified Data Analyst
+- I’m looking to collaborate on Data Analysis
 
 <!---
 Almero13/Almero13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
