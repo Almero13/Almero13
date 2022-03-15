@@ -1,7 +1,7 @@
 - Hi, I’m Amr
 - I’m interested in Data Science & Machine Learning
 - Python is my favorite language
-- Certified Data Analyst
+- IT Engineer by education and a Certified Data Analyst
 - I’m looking to collaborate on Data Analysis
 
 <!---
